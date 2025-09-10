@@ -12,10 +12,10 @@ This isn't just about making a single file; it's about building a core skill for
 
 Through this challenge, I'm learning to:
 
-* **Master Git & GitHub:** I'm getting hands-on experience with version control, which is essential for collaborative projects. Creating a repository, committing changes, and managing my profile are the first steps.
-* **Embrace Community:** Open source is all about community. This challenge is teaching me how to engage with other developers, showcase my work, and prepare for future contributions.
-* **Build a Developer Portfolio:** My GitHub profile is more than just a page—it's a live portfolio. This custom README allows me to tell my story, highlight my skills, and document my progress publicly.
-* **Document My Work:** I'm learning the importance of clear documentation by creating this README. A well-written README helps others understand a project (or in this case, my journey!).
+🚀 **Master Git & GitHub:** I'm getting hands-on experience with version control, which is essential for collaborative projects. Creating a repository, committing changes, and managing my profile are the first steps.
+💻 **Embrace Community:** Open source is all about community. This challenge is teaching me how to engage with other developers, showcase my work, and prepare for future contributions.
+🚀 **Build a Developer Portfolio:** My GitHub profile is more than just a page—it's a live portfolio. This custom README allows me to tell my story, highlight my skills, and document my progress publicly.
+✨ **Document My Work:** I'm learning the importance of clear documentation by creating this README. A well-written README helps others understand a project (or in this case, my journey!).
 
 ---
 
@@ -29,6 +29,6 @@ The journey starts here.
 
 ### Let's Connect!
 
-* **GitHub:** [You are here!]
-* **LinkedIn:** [Your LinkedIn Profile URL]
-* **Portfolio:** [Your Personal Website URL (if you have one)]
+* **GitHub:** [[You are here!](https://github.com/Aditee-18)]
+* **LinkedIn:** [[Your LinkedIn Profile URL](https://www.linkedin.com/in/aditee-srivastava-a942a128a/)]
+
