@@ -29,6 +29,6 @@ The journey starts here.
 
 ### Let's Connect!
 
-* **GitHub:** [[You are here!](https://github.com/Aditee-18)]
-* **LinkedIn:** [[Your LinkedIn Profile URL](https://www.linkedin.com/in/aditee-srivastava-a942a128a/)]
+* **GitHub:** [[Github](https://github.com/Aditee-18)]
+* **LinkedIn:** [[LinkedIn](https://www.linkedin.com/in/aditee-srivastava-a942a128a/)]
 
